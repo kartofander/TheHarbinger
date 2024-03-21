@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Trash Can
+  m_Controller: {fileID: 9100000, guid: 2ebb40793e33962458c3d4a289480c27, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8661d5541c36e1445b001df6d034bd47, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 514c7e3825aeb4f44ab7212eadd31d06, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1c2bf1f7ba8f7454683a2b6416ee8fcc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 13030df03bcd2134e94eb5d826b6174b, type: 2}
